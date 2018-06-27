@@ -1,0 +1,14 @@
+#titulo {
+	background-color: black;
+	color: grey;
+}
+#titulo2 {
+	background-color: rgb( 246, 224, 220);
+	color: black;
+	padding: 10pt;
+}
+.contenido{
+	background-color: rgb( 246, 224, 220);
+	border:  9px white solid;
+    padding: 7px;
+}
